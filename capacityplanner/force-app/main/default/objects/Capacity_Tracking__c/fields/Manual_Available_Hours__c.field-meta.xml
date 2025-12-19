@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Manual_Available_Hours__c</fullName>
+    <description>Manually set available hours when Is_Manual_Override__c is true</description>
+    <externalId>false</externalId>
+    <label>Manual Available Hours</label>
+    <precision>4</precision>
+    <required>false</required>
+    <scale>2</scale>
+    <trackTrending>false</trackTrending>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>
